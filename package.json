@@ -1,0 +1,25 @@
+{
+  "name": "assign4",
+  "version": "1.0.0",
+  "description": "Stanford CS 253 Assignment 4",
+  "scripts": {
+    "lint": "standard-markdown **/*.md",
+    "lint-fix": "standard-markdown **/*.md --fix",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanford-web-security/assign4.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/stanford-web-security/assign4/issues"
+  },
+  "homepage": "https://github.com/stanford-web-security/assign4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "standard-markdown": "^7.1.0"
+  }
+}
