@@ -50,10 +50,6 @@ Just read through this challenge. No need to submit a solution. AppEngine automa
 
 Just read through this challenge. No need to submit a solution. AppEngine automatically "simplifies" the URL with a 302 redirect, which breaks the attack.
 
-## Denial of Service
-
-TODO: Replace this with your solution
-
 ## DoS - Quit the Server
 
 TODO: Replace this with your solution
